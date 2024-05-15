@@ -1,6 +1,2 @@
-This is the bare bones of the game i am trying to make, i just wanna figure out how i can make the text background transparent so that is looks good, and i am trying to figure out
-how i can have mutiple 100x100 text files for al the rectangles and when you press tab you move on to the other one.
-its gonna be a difficult game to make but i am gonna try my best.
-this is my first time usering pygame so i am trying to figure everthing out.
-if you have any tips or tricks let me know.
-happy coding!!
+I need a bit of help with making the text input box fit the boxes of the background i tried reziseing it with font and img that wouldn't work, i just hope someone has a fix for me so that i can finish the game.
+thanks for looking it over :)
